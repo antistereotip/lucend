@@ -1,6 +1,10 @@
 # LUCEND
 ## LIFI PROJECT - CODING NAME: LUCEND
 
+	<p align="left">
+	<img src="https://github.com/antistereotip/lucend/blob/main/lifi.png" />
+	</p>
+
 #### Coding name also: Apostols
 
 ##### https://lightfidelity-lifi.com  -  CODING NAME: lucend
