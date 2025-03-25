@@ -23,4 +23,4 @@
 
 ##### https://lightfidelity-lifi.com/ui.html  -  CODING NAME: User Interface
 
-<img src="https://lightfidelity-lifi.com/ui.html" />
+<img src="https://lightfidelity-lifi.com/ui.png" />
