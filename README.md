@@ -16,7 +16,7 @@
 
 ##### https://lightfidelity-lifi.com/ukp.html  -  CODING NAME: ukp
 
-<img src="https://lightfidelity-lifi.com/mup.png" width="100" />
+<img src="https://lightfidelity-lifi.com/mup.png" width="200" />
 
 ##### https://lightfidelity-lifi.com/hightech.gif  -  CODING NAME: apostols
 
