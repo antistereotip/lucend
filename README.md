@@ -2,7 +2,7 @@
 ## LIFI PROJECT - CODING NAME: LUCEND
 
 	<p align="left">
-	<img src="[https://github.com/antistereotip/lucend/blob/main/lifi.png](https://lightfidelity-lifi.com/antistereotiplogo.png)" />
+	<img src="https://lightfidelity-lifi.com/antistereotiplogo.png"/>
 	</p>
 
 #### Coding name also: Apostols
