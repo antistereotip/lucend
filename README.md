@@ -1,6 +1,3 @@
-
-# LUCEND
-
 ## LIFI PROJECT - CODING NAME: LUCEND
 
 ##### https://lightfidelity-lifi.com  -  CODING NAME: lucend
