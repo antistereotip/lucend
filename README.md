@@ -3,8 +3,8 @@
 
 #### Coding name also: Apostols
 
-##### https://github.com/antistereotip/lucend/blob/main/hightech.gif
-
-##### https://github.com/antistereotip/lucend/blob/main/linea-stairs.gif
-
-##### https://github.com/antistereotip/lucend/blob/main/LiFi_logo_orangeblue.png
+##### https://lightfidelity-lifi.com  -  CODING NAME: lucend
+##### https://lightfidelity-lifi.com/matematika.html  -  CODING NAME: matematika
+##### https://lightfidelity-lifi.com/cubes  -  CODING NAME: cubes
+##### https://lightfidelity-lifi.com/ukp.htm  -  CODING NAME: ukp
+##### https://lightfidelity-lifi.com/hightech.gif  -  CODING NAME: apostols
