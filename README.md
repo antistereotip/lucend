@@ -22,4 +22,4 @@
 
 ##### https://lightfidelity-lifi.com/hightech.gif  -  CODING NAME: apostols
 
-<img src="https://lightfidelity-lifi.com/hightech.gif" width="100" />
+<img src="https://lightfidelity-lifi.com/hightech.gif" width="50" />
