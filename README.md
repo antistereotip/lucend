@@ -1,8 +1,5 @@
 # LUCEND
 ## LIFI PROJECT - CODING NAME: LUCEND
-
-
-
 ## Coding name also: Apostols
 
 
