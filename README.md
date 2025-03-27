@@ -12,10 +12,6 @@
 
 <img src="https://lightfidelity-lifi.com/cubes.png" width="100" />
 
-##### https://lightfidelity-lifi.com/ukp.html  -  CODING NAME: ukp
-
-<img src="https://lightfidelity-lifi.com/ukp.png" width="120" />
-
 ##### https://lightfidelity-lifi.com/hightech.gif  -  CODING NAME: apostols
 
 <img src="https://lightfidelity-lifi.com/hightech.gif" width="50" />
