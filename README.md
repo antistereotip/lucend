@@ -2,7 +2,7 @@
 
 ##### https://lightfidelity-lifi.com  -  CODING NAME: lucend
 
-<img src="https://lightfidelity-lifi.com/LiFi_logo_orangeblue.png" width="80" />
+<img src="https://lightfidelity-lifi.com/LiFi_logo_orangeblue.png" width="150" />
 
 ##### https://lightfidelity-lifi.com/matematika.html  -  CODING NAME: matematika
 
