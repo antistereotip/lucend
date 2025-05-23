@@ -2,8 +2,8 @@
 
 ##### https://lightfidelity-lifi.com  -  CODING NAME: lucend
 
-<img src="https://lightfidelity-lifi.com/antistereotiplogo.png" width="150" />
-
+<img src="https://lightfidelity-lifi.com/lifi4.png" width="150" />
+lightfidelity-lifi.com/lifi4.png
 ##### https://lightfidelity-lifi.com/matematika.html  -  CODING NAME: matematika
 
 <img src="https://lightfidelity-lifi.com/beastie64.png" width="100" />
