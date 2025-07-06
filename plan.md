@@ -48,4 +48,4 @@ Planovi za rast i širenje.
 
 Moguće inovacije i nova tržišta.
 
-# komentar
+# test komentar
