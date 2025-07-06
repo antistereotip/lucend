@@ -47,3 +47,5 @@ Plan za zapošljavanje dodatnog osoblja ako je potrebno.
 Planovi za rast i širenje.
 
 Moguće inovacije i nova tržišta.
+
+# komentar
