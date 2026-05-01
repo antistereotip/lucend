@@ -2,24 +2,9 @@
 
 ##### https://usk.rs/lightfidelity-lifi.com/  -  CODING NAME: lucend
 
-
-
 ##### https://usk.rs/lightfidelity-lifi.com/matematika.html  -  CODING NAME: matematika
 
-
-
-##### https://lightfidelity-lifi.com/cubes  -  CODING NAME: cubes
-
-
-
-##### https://lightfidelity-lifi.com/hightech.gif  -  CODING NAME: apostols
-
-
-
-##### https://lightfidelity-lifi.com/ui.html  -  CODING NAME: User Interface
-
-
-
+### What is Li-Fi
 Li-Fi (commonly referred to as LiFi) is a wireless communication technology which utilizes light to transmit data and position 
 between devices. The term was first introduced by Harald Haas during a 2011 TEDGlobal talk in Edinburgh.
 Li-Fi is a light communication system that is capable of transmitting data at high speeds over the visible light, 
