@@ -1,10 +1,10 @@
 ## LIFI PROJECT - CODING NAME: LUCEND
 
-##### https://lightfidelity-lifi.com  -  CODING NAME: lucend
+##### https://usk.rs/lightfidelity-lifi.com/  -  CODING NAME: lucend
 
 
 
-##### https://lightfidelity-lifi.com/matematika.html  -  CODING NAME: matematika
+##### https://usk.rs/lightfidelity-lifi.com/matematika.html  -  CODING NAME: matematika
 
 
 
