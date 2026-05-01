@@ -1,5 +1,7 @@
 ## LIFI PROJECT - CODING NAME: Ortodox (Lucend)
 
+<img src="https://github.com/antistereotip/lucend/blob/main/linea-stairs.gif"  width="200px"/>
+
 ##### https://usk.rs - CODING NAME: Apostols
 
 ##### https://usk.rs/lightfidelity-lifi.com/  -  CODING NAME: Laser tech
