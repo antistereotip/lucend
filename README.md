@@ -1,6 +1,8 @@
-## LIFI PROJECT - CODING NAME: LUCEND
+## LIFI PROJECT - CODING NAME: Ortodox (LUCEND)
 
-##### https://usk.rs/lightfidelity-lifi.com/  -  CODING NAME: Apostols
+##### https://usk.rs - CODING NAME: Apostols
+
+##### https://usk.rs/lightfidelity-lifi.com/  -  CODING NAME: Laser
 
 ##### https://usk.rs/lightfidelity-lifi.com/matematika.html  -  CODING NAME: matematika
 
