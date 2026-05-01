@@ -1,10 +1,10 @@
-## LIFI PROJECT - CODING NAME: Ortodox (LUCEND)
+## LIFI PROJECT - CODING NAME: Ortodox (Lucend)
 
 ##### https://usk.rs - CODING NAME: Apostols
 
-##### https://usk.rs/lightfidelity-lifi.com/  -  CODING NAME: Laser
+##### https://usk.rs/lightfidelity-lifi.com/  -  CODING NAME: Laser tech
 
-##### https://usk.rs/lightfidelity-lifi.com/matematika.html  -  CODING NAME: matematika
+##### https://usk.rs/lightfidelity-lifi.com/matematika.html  -  CODING NAME: Math
 
 ### What is Li-Fi
 Li-Fi (commonly referred to as LiFi) is a wireless communication technology which utilizes light to transmit data and position 
