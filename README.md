@@ -1,6 +1,6 @@
 ## LIFI PROJECT - CODING NAME: LUCEND
 
-##### https://usk.rs/lightfidelity-lifi.com/  -  CODING NAME: lucend
+##### https://usk.rs/lightfidelity-lifi.com/  -  CODING NAME: Apostols
 
 ##### https://usk.rs/lightfidelity-lifi.com/matematika.html  -  CODING NAME: matematika
 
@@ -14,5 +14,5 @@ frequency to induce an electric tension in an antenna to transmit data, whereas 
 to transmit data. Li-Fi is able to function in areas otherwise susceptible to electromagnetic interference 
 (e.g. aircraft cabins, hospitals, or military applications).
 
-source (https://en.wikipedia.org/wiki/Li-Fi)
+##### source (https://en.wikipedia.org/wiki/Li-Fi)
 
